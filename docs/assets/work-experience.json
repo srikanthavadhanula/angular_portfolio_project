@@ -1,0 +1,47 @@
+{
+  "work": [
+    {
+      "date": "June 2020 - Present",
+      "title": "Software Engineer at Paysafe",
+      "description": "Designed a Demo Merchant website and integrated Paysafe transaction APIs |  Integrated a ton of payment integrations services | Actively participated in internal bootcamps and presented on various topics like Kafka, streams and Hystrix.",
+      "stack": [
+        "Java",
+        "Spring boot",
+        "MySQL",
+        "Angular",
+        "Node.js",
+        "npm",
+        "Git",
+        "Bitbucket",
+        "GitHub",
+        "Agile",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "date": "July 2018 - June 2020",
+      "title": "Software Developer at Techmojo",
+      "description": "Good knowledge on handling micro services | Implemented Kafka message broker for internal events and messaging between multiple services.",
+      "stack": [
+        "Java",
+        "Spring boot",
+        "RESTful API Design",
+        "MySQL",
+        "Linux",
+        "HTML",
+        "JQuery"
+      ]
+    },
+    {
+      "date": "January 2018 - June 2018",
+      "title": "Technical Intern at NVIDIA",
+      "description": "Developed an application (Scanout Logging Tool) to calculate the Lag/Tearing/Stutter.",
+      "stack": [
+        "c",
+        "Shell Scripting"
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "preview": "assets/media/projects/randomchat.PNG",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "Random Chat Web Application",
+      "description": "Developed an end to end group chat web application using socket.io and node js \n\n Demo : https://randomchatapp.netlify.app/"
+    },
+    {
+      "preview": "assets/media/projects/insurence.png",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "Insurance Prediction",
+      "description": "I have used the RandomForestRegressor model after analyzing multiple Machine learning models with a score of 88% on the insurance dataset. \n\n I have built an UI with python flask and created a user friendly website to predict their insurance cost. \n\n Demo : https://insurance-predictor-webapp.herokuapp.com/"
+    }
+  ]
+}

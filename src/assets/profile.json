@@ -1,0 +1,35 @@
+{
+  "email": "srikanth.a9500@gmail.com",
+  "location": "Hyderabad, India",
+  "name": "Sai Srikanth Avadhanula",
+  "phone": "",
+  "avatar": "assets/media/srikanth.jpg",
+  "education": [
+    {
+      "title": "Masters in Information Technology",
+      "meta": "Indian Institute of Information Technology Hyderabad,  July 2016 – June 2018"
+    },
+    {
+      "title": "Bachelor of Technology (BTech) in Computer Science and Engineering",
+      "meta": "Raghu Engineering College,  Aug 2012 – May 2016"
+    }
+  ],
+  "about": "“Learning everyday keeps you young and motivated”, I brainstorm everyday and try to utilize my time productively.I understand how technological products are developed, which were hugly used by individuals. \n\n Meditation and affirmations are my daily starters. \n\n I love to read, understand and teach. I am highly interested in building teams and working collaboratively. Designing scalable systems and solving problems kicks dopamine in me. I am an avid reader.",
+  "socials": [
+    {
+      "name": "srikanth.a9500@gmail.com",
+      "link": "mailto:srikanth.a9500@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/srikanthavadhanula/",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/srikanthavadhanula/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
